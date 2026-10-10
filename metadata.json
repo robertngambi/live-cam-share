@@ -1,0 +1,11 @@
+{
+  "name": "Live-camera share",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
